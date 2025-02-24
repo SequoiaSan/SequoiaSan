@@ -6,7 +6,7 @@ All support currently goes to humanitarian and Ukraine's army support.
 
 #### Please, contribute and support.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sequoiasan)&emsp;&emsp;[![DeStream Donate"](https://raw.githubusercontent.com/SequoiaSan/SequoiaSan/main/button_destream-donate.png)](https://destream.net/live/SequoiaSan/donate)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sequoiasan)&emsp;&emsp;
 
 |Coin|Address|
 |---|---|
